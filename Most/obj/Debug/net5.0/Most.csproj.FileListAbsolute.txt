@@ -1,0 +1,16 @@
+C:\Users\Kacper\source\repos\Most\bin\Debug\net5.0\Most.exe
+C:\Users\Kacper\source\repos\Most\bin\Debug\net5.0\Most.deps.json
+C:\Users\Kacper\source\repos\Most\bin\Debug\net5.0\Most.runtimeconfig.json
+C:\Users\Kacper\source\repos\Most\bin\Debug\net5.0\Most.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\Most\bin\Debug\net5.0\Most.dll
+C:\Users\Kacper\source\repos\Most\bin\Debug\net5.0\ref\Most.dll
+C:\Users\Kacper\source\repos\Most\bin\Debug\net5.0\Most.pdb
+C:\Users\Kacper\source\repos\Most\obj\Debug\net5.0\Most.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\Most\obj\Debug\net5.0\Most.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Most\obj\Debug\net5.0\Most.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Most\obj\Debug\net5.0\Most.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Most\obj\Debug\net5.0\Most.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Most\obj\Debug\net5.0\Most.dll
+C:\Users\Kacper\source\repos\Most\obj\Debug\net5.0\ref\Most.dll
+C:\Users\Kacper\source\repos\Most\obj\Debug\net5.0\Most.pdb
+C:\Users\Kacper\source\repos\Most\obj\Debug\net5.0\Most.genruntimeconfig.cache
