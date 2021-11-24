@@ -1,0 +1,16 @@
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\obj\Debug\net5.0\Kompozyt.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\obj\Debug\net5.0\Kompozyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\obj\Debug\net5.0\Kompozyt.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\obj\Debug\net5.0\Kompozyt.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\obj\Debug\net5.0\Kompozyt.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\bin\Debug\net5.0\Kompozyt.exe
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\bin\Debug\net5.0\Kompozyt.deps.json
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\bin\Debug\net5.0\Kompozyt.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\bin\Debug\net5.0\Kompozyt.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\bin\Debug\net5.0\Kompozyt.dll
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\bin\Debug\net5.0\ref\Kompozyt.dll
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\bin\Debug\net5.0\Kompozyt.pdb
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\obj\Debug\net5.0\Kompozyt.dll
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\obj\Debug\net5.0\ref\Kompozyt.dll
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\obj\Debug\net5.0\Kompozyt.pdb
+C:\Users\Kacper\source\repos\Studia-\Kompozyt\obj\Debug\net5.0\Kompozyt.genruntimeconfig.cache
