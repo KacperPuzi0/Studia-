@@ -1,0 +1,16 @@
+C:\Users\Kacper\source\repos\Studia-\Fasada\bin\Debug\net5.0\Fasada.exe
+C:\Users\Kacper\source\repos\Studia-\Fasada\bin\Debug\net5.0\Fasada.deps.json
+C:\Users\Kacper\source\repos\Studia-\Fasada\bin\Debug\net5.0\Fasada.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Fasada\bin\Debug\net5.0\Fasada.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\Studia-\Fasada\bin\Debug\net5.0\Fasada.dll
+C:\Users\Kacper\source\repos\Studia-\Fasada\bin\Debug\net5.0\ref\Fasada.dll
+C:\Users\Kacper\source\repos\Studia-\Fasada\bin\Debug\net5.0\Fasada.pdb
+C:\Users\Kacper\source\repos\Studia-\Fasada\obj\Debug\net5.0\Fasada.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Fasada\obj\Debug\net5.0\Fasada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Fasada\obj\Debug\net5.0\Fasada.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Fasada\obj\Debug\net5.0\Fasada.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Fasada\obj\Debug\net5.0\Fasada.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Fasada\obj\Debug\net5.0\Fasada.dll
+C:\Users\Kacper\source\repos\Studia-\Fasada\obj\Debug\net5.0\ref\Fasada.dll
+C:\Users\Kacper\source\repos\Studia-\Fasada\obj\Debug\net5.0\Fasada.pdb
+C:\Users\Kacper\source\repos\Studia-\Fasada\obj\Debug\net5.0\Fasada.genruntimeconfig.cache
