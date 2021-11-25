@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Kompozyt
-build_property.ProjectDir = D:\Users\kacper.puzio\Source\Repos\Studia-\Kompozyt\
+build_property.RootNamespace = Proxy_Pełnomocnik
+build_property.ProjectDir = D:\Users\kacper.puzio\Source\Repos\Studia-\Proxy Pełnomocnik\
