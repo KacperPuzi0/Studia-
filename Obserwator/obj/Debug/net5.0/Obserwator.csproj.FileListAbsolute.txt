@@ -1,0 +1,16 @@
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\bin\Debug\net5.0\Obserwator.exe
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\bin\Debug\net5.0\Obserwator.deps.json
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\bin\Debug\net5.0\Obserwator.runtimeconfig.json
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\bin\Debug\net5.0\Obserwator.runtimeconfig.dev.json
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\bin\Debug\net5.0\Obserwator.dll
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\bin\Debug\net5.0\ref\Obserwator.dll
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\bin\Debug\net5.0\Obserwator.pdb
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\obj\Debug\net5.0\Obserwator.csproj.AssemblyReference.cache
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\obj\Debug\net5.0\Obserwator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\obj\Debug\net5.0\Obserwator.AssemblyInfoInputs.cache
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\obj\Debug\net5.0\Obserwator.AssemblyInfo.cs
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\obj\Debug\net5.0\Obserwator.csproj.CoreCompileInputs.cache
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\obj\Debug\net5.0\Obserwator.dll
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\obj\Debug\net5.0\ref\Obserwator.dll
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\obj\Debug\net5.0\Obserwator.pdb
+D:\Users\kacper.puzio\Source\Repos\Studia-\Obserwator\obj\Debug\net5.0\Obserwator.genruntimeconfig.cache
