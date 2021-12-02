@@ -1,0 +1,16 @@
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\bin\Debug\net5.0\Łancuch zobowiązań.exe
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\bin\Debug\net5.0\Łancuch zobowiązań.deps.json
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\bin\Debug\net5.0\Łancuch zobowiązań.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\bin\Debug\net5.0\Łancuch zobowiązań.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\bin\Debug\net5.0\Łancuch zobowiązań.dll
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\bin\Debug\net5.0\ref\Łancuch zobowiązań.dll
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\bin\Debug\net5.0\Łancuch zobowiązań.pdb
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.dll
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\ref\Łancuch zobowiązań.dll
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.pdb
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.genruntimeconfig.cache
