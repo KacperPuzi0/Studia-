@@ -1,0 +1,16 @@
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\bin\Debug\net5.0\Dzielenie ciasta.exe
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\bin\Debug\net5.0\Dzielenie ciasta.deps.json
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\bin\Debug\net5.0\Dzielenie ciasta.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\bin\Debug\net5.0\Dzielenie ciasta.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\bin\Debug\net5.0\Dzielenie ciasta.dll
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\bin\Debug\net5.0\ref\Dzielenie ciasta.dll
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\bin\Debug\net5.0\Dzielenie ciasta.pdb
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\obj\Debug\net5.0\Dzielenie ciasta.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\obj\Debug\net5.0\Dzielenie ciasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\obj\Debug\net5.0\Dzielenie ciasta.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\obj\Debug\net5.0\Dzielenie ciasta.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\obj\Debug\net5.0\Dzielenie ciasta.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\obj\Debug\net5.0\Dzielenie ciasta.dll
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\obj\Debug\net5.0\ref\Dzielenie ciasta.dll
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\obj\Debug\net5.0\Dzielenie ciasta.pdb
+C:\Users\Kacper\source\repos\Studia-\Dzielenie ciasta\obj\Debug\net5.0\Dzielenie ciasta.genruntimeconfig.cache
