@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\bin\Debug\net6.0\Mediator.exe
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\bin\Debug\net6.0\Mediator.deps.json
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\bin\Debug\net6.0\Mediator.dll
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\bin\Debug\net6.0\ref\Mediator.dll
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\bin\Debug\net6.0\Mediator.pdb
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\obj\Debug\net6.0\Mediator.dll
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\obj\Debug\net6.0\ref\Mediator.dll
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\obj\Debug\net6.0\Mediator.pdb
+C:\Users\Kacper\source\repos\Studia-\Mediator\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
