@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kacper\\source\\repos\\Studia-\\Dzielenie pizzy\\Dzielenie pizzy.csproj": {}
+    "C:\\Users\\Kacper\\source\\repos\\Studia-\\Pamiątka\\Pamiątka\\Pamiątka.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kacper\\source\\repos\\Studia-\\Dzielenie pizzy\\Dzielenie pizzy.csproj": {
+    "C:\\Users\\Kacper\\source\\repos\\Studia-\\Pamiątka\\Pamiątka\\Pamiątka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kacper\\source\\repos\\Studia-\\Dzielenie pizzy\\Dzielenie pizzy.csproj",
-        "projectName": "Dzielenie pizzy",
-        "projectPath": "C:\\Users\\Kacper\\source\\repos\\Studia-\\Dzielenie pizzy\\Dzielenie pizzy.csproj",
+        "projectUniqueName": "C:\\Users\\Kacper\\source\\repos\\Studia-\\Pamiątka\\Pamiątka\\Pamiątka.csproj",
+        "projectName": "Pamiątka",
+        "projectPath": "C:\\Users\\Kacper\\source\\repos\\Studia-\\Pamiątka\\Pamiątka\\Pamiątka.csproj",
         "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kacper\\source\\repos\\Studia-\\Dzielenie pizzy\\obj\\",
+        "outputPath": "C:\\Users\\Kacper\\source\\repos\\Studia-\\Pamiątka\\Pamiątka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -24,15 +24,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +43,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

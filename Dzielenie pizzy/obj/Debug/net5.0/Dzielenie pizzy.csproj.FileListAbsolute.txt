@@ -1,0 +1,16 @@
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\bin\Debug\net5.0\Dzielenie pizzy.exe
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\bin\Debug\net5.0\Dzielenie pizzy.deps.json
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\bin\Debug\net5.0\Dzielenie pizzy.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\bin\Debug\net5.0\Dzielenie pizzy.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\bin\Debug\net5.0\Dzielenie pizzy.dll
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\bin\Debug\net5.0\ref\Dzielenie pizzy.dll
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\bin\Debug\net5.0\Dzielenie pizzy.pdb
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\obj\Debug\net5.0\Dzielenie pizzy.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\obj\Debug\net5.0\Dzielenie pizzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\obj\Debug\net5.0\Dzielenie pizzy.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\obj\Debug\net5.0\Dzielenie pizzy.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\obj\Debug\net5.0\Dzielenie pizzy.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\obj\Debug\net5.0\Dzielenie pizzy.dll
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\obj\Debug\net5.0\ref\Dzielenie pizzy.dll
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\obj\Debug\net5.0\Dzielenie pizzy.pdb
+C:\Users\Kacper\source\repos\Studia-\Dzielenie pizzy\obj\Debug\net5.0\Dzielenie pizzy.genruntimeconfig.cache

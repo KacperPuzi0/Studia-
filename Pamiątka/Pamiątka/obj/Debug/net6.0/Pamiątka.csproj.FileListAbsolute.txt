@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\bin\Debug\net6.0\Pamiątka.exe
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\bin\Debug\net6.0\Pamiątka.deps.json
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\bin\Debug\net6.0\Pamiątka.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\bin\Debug\net6.0\Pamiątka.dll
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\bin\Debug\net6.0\ref\Pamiątka.dll
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\bin\Debug\net6.0\Pamiątka.pdb
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\obj\Debug\net6.0\Pamiątka.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\obj\Debug\net6.0\Pamiątka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\obj\Debug\net6.0\Pamiątka.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\obj\Debug\net6.0\Pamiątka.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\obj\Debug\net6.0\Pamiątka.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\obj\Debug\net6.0\Pamiątka.dll
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\obj\Debug\net6.0\ref\Pamiątka.dll
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\obj\Debug\net6.0\Pamiątka.pdb
+C:\Users\Kacper\source\repos\Studia-\Pamiątka\Pamiątka\obj\Debug\net6.0\Pamiątka.genruntimeconfig.cache
