@@ -14,3 +14,4 @@ C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łan
 C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\ref\Łancuch zobowiązań.dll
 C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.pdb
 C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.genruntimeconfig.cache
+C:\Users\Kacper\source\repos\Studia-\Łancuch zobowiązań\obj\Debug\net5.0\Łancuch zobowiązań.csproj.AssemblyReference.cache

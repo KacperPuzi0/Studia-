@@ -1,95 +1,124 @@
 ﻿using System;
 
-public interface IPolecenie
+public interface Lancuch
 {
-    void wykonaj();
+    //
+    //
+
+    void ustawNastepne(Lancuch c);
+    void Przetwarzaj(Powiadomienia powiadomienia);
+    //
 }
 
-public class KomendaWlacz : IPolecenie
+public class Powiadomienia
 {
-    Lampa lampa;
-    public KomendaWlacz(Lampa lampa)
+
+    private int number;
+
+    public Powiadomienia(int number)
     {
-        this.lampa = lampa;
+        this.number = number;
     }
-    public void wykonaj()
+
+    public int pobierzLiczbe()
     {
-        lampa.wlacz();
+        //
+        return number;
+        //
     }
+
 }
 
-public class KomendaWylacz : IPolecenie
+public class BrakLancuch : Lancuch
 {
-    Lampa lampa;
-    public KomendaWylacz(Lampa lampa)
+
+    private Lancuch nastepneWLancuchu;
+
+    public void ustawNastepne(Lancuch c)
     {
-        this.lampa = lampa;
+        nastepneWLancuchu = c;
     }
-    public void wykonaj()
+    public void Przetwarzaj(Powiadomienia powiadomienia)
     {
-        lampa.wylacz();
+        if (powiadomienia.pobierzLiczbe() <= 0)
+        {
+            Console.WriteLine("Brak powiadomień");
+        }
+        else
+        {
+            nastepneWLancuchu.Przetwarzaj(powiadomienia);
+        }
     }
 }
-
-
-public class Lampa
+public class MaloLancuch : Lancuch
 {
-    private bool stan;
 
-    public bool sprawdz()
-    {
-        return stan;
-    }
+    private Lancuch nastepneWLancuchu;
 
-    internal void wylacz()
+    public void ustawNastepne(Lancuch c)
     {
-        stan = false;
+        nastepneWLancuchu = c;
     }
-    internal void wlacz()
+    public void Przetwarzaj(Powiadomienia powiadomienia)
     {
-        stan = true;
+        if (powiadomienia.pobierzLiczbe() <= 5)
+        {
+            Console.WriteLine("Mało powiadomień: "+ powiadomienia.pobierzLiczbe());
+        }
+        else
+        {
+            nastepneWLancuchu.Przetwarzaj(powiadomienia);
+        }
     }
 }
-
-
-public class Pilot
+public class DuzoLancuch : Lancuch
 {
-    private IPolecenie polecenie;
 
-    public void ustawPolecenie(IPolecenie c)
+    private Lancuch nastepneWLancuchu;
+
+    public void ustawNastepne(Lancuch c)
     {
-        polecenie = c;
+        nastepneWLancuchu = c;
     }
-
-    public void wcisnijGuzik()
+    public void Przetwarzaj(Powiadomienia powiadomienia)
     {
-        polecenie.wykonaj();
+        Console.WriteLine("Dużo powiadomień: " + powiadomienia.pobierzLiczbe());
     }
-
 }
 
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(String[] args)
     {
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
+        Lancuch l1 = new BrakLancuch();
+        Lancuch l2 = new MaloLancuch();
+        Lancuch l3 = new DuzoLancuch();
+        l1.ustawNastepne(l2);
+        l2.ustawNastepne(l3);
+        //
+        //
+        //
 
-        Pilot pilot = new Pilot();
-        Lampa lampa = new Lampa();
+        int i = 0;
+        l1.Przetwarzaj(new Powiadomienia(i));
+        i++;
 
-        IPolecenie wlacz = new KomendaWlacz(lampa);
-        IPolecenie wylacz = new KomendaWylacz(lampa);
+        l1.Przetwarzaj(new Powiadomienia(i));
 
-        Console.WriteLine(lampa.sprawdz() ? "Lampa włączona" : "Lampa wyłączona");
+        i = i + 11;
+        l1.Przetwarzaj(new Powiadomienia(i));
 
-        pilot.ustawPolecenie(wlacz);
-        pilot.wcisnijGuzik();
-        Console.WriteLine(lampa.sprawdz() ? "Lampa włączona" : "Lampa wyłączona");
+        i = i - 9;
+        l1.Przetwarzaj(new Powiadomienia(i));
 
-
-        pilot.ustawPolecenie(wylacz);
-        pilot.wcisnijGuzik();
-        Console.WriteLine(lampa.sprawdz() ? "Lampa włączona" : "Lampa wyłączona");
+        i = i - 3;
+        l1.Przetwarzaj(new Powiadomienia(i));
+       
+        //
+        //
+        //
 
     }
 }
