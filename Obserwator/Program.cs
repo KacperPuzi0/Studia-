@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace WzorceProjektowe
-{
     public enum Genre
     {
         Sport,
@@ -18,9 +16,12 @@ namespace WzorceProjektowe
 
     public interface ISubject
     {
+        void Notify();
         void Attach(IObserver observer);
         void Detach(IObserver observer);
-        
+        void setNewsHeadline(Genre state, string news);
+
+
     }
 
     public class NewsAgency : ISubject
@@ -66,18 +67,6 @@ namespace WzorceProjektowe
             {
                 Console.WriteLine($"DailyEconomy publikuje artykuł \"{(subject as NewsAgency).NewsHeadline}\"");
             }
-            if ((subject as NewsAgency).State == Genre.Science)
-            {
-                Console.WriteLine($"DailyEconomy publikuje artykuł \"{(subject as NewsAgency).NewsHeadline}\"");
-            }
-            if ((subject as NewsAgency).State == Genre.Sport)
-            {
-                Console.WriteLine($"DailyEconomy publikuje artykuł \"{(subject as NewsAgency).NewsHeadline}\"");
-            }
-            if ((subject as NewsAgency).State == Genre.Politics)
-            {
-                Console.WriteLine($"DailyEconomy publikuje artykuł \"{(subject as NewsAgency).NewsHeadline}\"");
-            }
         }
     }
 
@@ -112,18 +101,6 @@ namespace WzorceProjektowe
             {
                 Console.WriteLine($"NationalGeographic publikuje artykuł \"{(subject as NewsAgency).NewsHeadline}\"");
             }
-            if ((subject as NewsAgency).State == Genre.Economy)
-            {
-                Console.WriteLine($"DailyEconomy publikuje artykuł \"{(subject as NewsAgency).NewsHeadline}\"");
-            }
-            if ((subject as NewsAgency).State == Genre.Politics)
-            {
-                Console.WriteLine($"DailyEconomy publikuje artykuł \"{(subject as NewsAgency).NewsHeadline}\"");
-            }
-            if ((subject as NewsAgency).State == Genre.Sport)
-            {
-                Console.WriteLine($"DailyEconomy publikuje artykuł \"{(subject as NewsAgency).NewsHeadline}\"");
-            }
         }
     }
 
@@ -146,12 +123,12 @@ namespace WzorceProjektowe
             newYork.Update(newsAgency);
             nationalGeographic.Update(newsAgency);
 
-            newsAgency.setNewsHeadline(Genre.Economy, "Life on Alpha Centauri");
+            newsAgency.setNewsHeadline(Genre.Science, "Life on Alpha Centauri");
             dailyEconomy.Update(newsAgency);
             newYork.Update(newsAgency);
             nationalGeographic.Update(newsAgency);
 
-            newsAgency.setNewsHeadline(Genre.Economy, "Adam Małysz is the greatest sportsman in the history of mankind");
+            newsAgency.setNewsHeadline(Genre.Sport, "Adam Małysz is the greatest sportsman in the history of mankind");
             dailyEconomy.Update(newsAgency);
             newYork.Update(newsAgency);
             nationalGeographic.Update(newsAgency);
@@ -161,20 +138,17 @@ namespace WzorceProjektowe
             newYork.Update(newsAgency);
             nationalGeographic.Update(newsAgency);
 
-            newsAgency.setNewsHeadline(Genre.Economy, "Kirkendall effect causing airplanes' engine deteriorate");
+            newsAgency.setNewsHeadline(Genre.Science, "Kirkendall effect causing airplanes' engine deteriorate");
             dailyEconomy.Update(newsAgency);
             newYork.Update(newsAgency);
             nationalGeographic.Update(newsAgency);
 
-            newsAgency.setNewsHeadline(Genre.Economy, "Texas is going bancrupt!");
+            newsAgency.setNewsHeadline(Genre.Politics, "Texas is going bancrupt!");
             dailyEconomy.Update(newsAgency);
             newYork.Update(newsAgency);
             nationalGeographic.Update(newsAgency);
 
-            //deatach?
             newsAgency.Notify();
-            //
-            //
+
         }
     }
-}
