@@ -100,14 +100,11 @@ class Program
         IUzytkownik nakamoto = new Dev(mediator, "Nakamoto");
         IUzytkownik geohot = new Dev(mediator, "Geohot");
 
+        mediator.DodajUzytkownika(ania);
         mediator.DodajUzytkownika(nakamoto);
         mediator.DodajUzytkownika(geohot);
-        mediator.DodajUzytkownika(ania);
-
 
         ania.WyslijWiadomosc("Proszę natychmiast wprowadzić poprawki na produkcje.");
         geohot.WyslijWiadomosc("Czekam az Nakamoto zaparzy kawe...");
-
-
     }
 }
