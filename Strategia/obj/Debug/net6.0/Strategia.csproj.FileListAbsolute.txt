@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\Studia-\Strategia\bin\Debug\net6.0\Strategia.exe
+C:\Users\Kacper\source\repos\Studia-\Strategia\bin\Debug\net6.0\Strategia.deps.json
+C:\Users\Kacper\source\repos\Studia-\Strategia\bin\Debug\net6.0\Strategia.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Strategia\bin\Debug\net6.0\Strategia.dll
+C:\Users\Kacper\source\repos\Studia-\Strategia\bin\Debug\net6.0\ref\Strategia.dll
+C:\Users\Kacper\source\repos\Studia-\Strategia\bin\Debug\net6.0\Strategia.pdb
+C:\Users\Kacper\source\repos\Studia-\Strategia\obj\Debug\net6.0\Strategia.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Strategia\obj\Debug\net6.0\Strategia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Strategia\obj\Debug\net6.0\Strategia.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Strategia\obj\Debug\net6.0\Strategia.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Strategia\obj\Debug\net6.0\Strategia.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Strategia\obj\Debug\net6.0\Strategia.dll
+C:\Users\Kacper\source\repos\Studia-\Strategia\obj\Debug\net6.0\ref\Strategia.dll
+C:\Users\Kacper\source\repos\Studia-\Strategia\obj\Debug\net6.0\Strategia.pdb
+C:\Users\Kacper\source\repos\Studia-\Strategia\obj\Debug\net6.0\Strategia.genruntimeconfig.cache
