@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\Studia-\Stan\bin\Debug\net6.0\Stan.exe
+C:\Users\Kacper\source\repos\Studia-\Stan\bin\Debug\net6.0\Stan.deps.json
+C:\Users\Kacper\source\repos\Studia-\Stan\bin\Debug\net6.0\Stan.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Stan\bin\Debug\net6.0\Stan.dll
+C:\Users\Kacper\source\repos\Studia-\Stan\bin\Debug\net6.0\ref\Stan.dll
+C:\Users\Kacper\source\repos\Studia-\Stan\bin\Debug\net6.0\Stan.pdb
+C:\Users\Kacper\source\repos\Studia-\Stan\obj\Debug\net6.0\Stan.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Stan\obj\Debug\net6.0\Stan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Stan\obj\Debug\net6.0\Stan.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Stan\obj\Debug\net6.0\Stan.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Stan\obj\Debug\net6.0\Stan.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Stan\obj\Debug\net6.0\Stan.dll
+C:\Users\Kacper\source\repos\Studia-\Stan\obj\Debug\net6.0\ref\Stan.dll
+C:\Users\Kacper\source\repos\Studia-\Stan\obj\Debug\net6.0\Stan.pdb
+C:\Users\Kacper\source\repos\Studia-\Stan\obj\Debug\net6.0\Stan.genruntimeconfig.cache
