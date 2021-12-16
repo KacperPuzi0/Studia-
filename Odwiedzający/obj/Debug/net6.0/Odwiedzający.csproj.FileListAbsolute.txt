@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\bin\Debug\net6.0\Odwiedzający.exe
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\bin\Debug\net6.0\Odwiedzający.deps.json
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\bin\Debug\net6.0\Odwiedzający.runtimeconfig.json
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\bin\Debug\net6.0\Odwiedzający.dll
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\bin\Debug\net6.0\ref\Odwiedzający.dll
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\bin\Debug\net6.0\Odwiedzający.pdb
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\obj\Debug\net6.0\Odwiedzający.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\obj\Debug\net6.0\Odwiedzający.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\obj\Debug\net6.0\Odwiedzający.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\obj\Debug\net6.0\Odwiedzający.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\obj\Debug\net6.0\Odwiedzający.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\obj\Debug\net6.0\Odwiedzający.dll
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\obj\Debug\net6.0\ref\Odwiedzający.dll
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\obj\Debug\net6.0\Odwiedzający.pdb
+C:\Users\Kacper\source\repos\Studia-\Odwiedzający\obj\Debug\net6.0\Odwiedzający.genruntimeconfig.cache
